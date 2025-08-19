@@ -10,7 +10,7 @@
 
 <p>
     If you want to use tmux with alacritty, add this line to file after 
-    [program=/bin/bash]:
+    [ program=/bin/bash ]:
 </p>
 
 ```yaml
