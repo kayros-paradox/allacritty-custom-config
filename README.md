@@ -9,7 +9,8 @@
 <br />
 
 <p>
-    If you want to use tmux with alacritty, add this line to file after "program=/bin/bash":
+    If you want to use tmux with alacritty, add this line to file after 
+    [program=/bin/bash]:
 </p>
 
 ```yaml
