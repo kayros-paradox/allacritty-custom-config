@@ -1,4 +1,4 @@
-## 📟 Конфигурационный файл для alacritty
+## 📟 Alacritty configuration file 
 
 <p>Put it to:</p> 
 
