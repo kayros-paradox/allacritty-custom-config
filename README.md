@@ -1,4 +1,4 @@
-## 📟 Alacritty configuration file
+## 📟 Конфигурационный файл для alacritty
 
 <b>Put it to:</b> 
 
@@ -17,3 +17,4 @@ If you want to use tmux with alacritty, add this line to file after "program=/bi
 ```yaml
 args=["-c", "tmux -u"]
 ``` 
+
