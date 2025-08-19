@@ -1,6 +1,6 @@
 ## 📟 Конфигурационный файл для alacritty
 
-<p><b>Put it to:</b></p> 
+<p>Put it to:</p> 
 
 ```bash
 ~/.config/alacritty/.
@@ -8,9 +8,9 @@
 
 <br />
 
-<p><b>
+<p>
     If you want to use tmux with alacritty, add this line to file after "program=/bin/bash":
-</b></p>
+</p>
 
 ```yaml
 args=["-c", "tmux -u"]
